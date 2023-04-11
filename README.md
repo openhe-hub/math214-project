@@ -13,7 +13,16 @@
 |              | 王逸骏       | Wang Yijun   |
 |              | 袁艺蕾       | Yuan yilei   |
 ## Introduction
-## Research Points
+### Project
+### Structure
+```
+assets   ==>   MNIST dataset folder
+docs     ==>   Project Paper/PPT/LaTex code
+models   ==>   Trained CNN models
+src      ==>   Source code folder
+```
+### Research Points
+
 ## Run & Deploy
 ```bash
 git clone https://github.com/openhe-hub/math214-project.git
