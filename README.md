@@ -15,4 +15,9 @@
 ## Introduction
 ## Research Points
 ## Run & Deploy
+```bash
+git clone https://github.com/openhe-hub/math214-project.git
+cd math214-project
+pip install -r requirements.txt
+```
 ## Others
