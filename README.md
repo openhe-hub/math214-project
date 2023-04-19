@@ -14,6 +14,7 @@
 |    522370910129          | 袁艺蕾       | Yuan yilei   |
 ## Introduction
 ### Project
+Our application uses a CNN model to predict handwritten digits in the MNIST dataset. MNIST is a well-known dataset used for image recognition and classification tasks. It consists of 70,000 handwritten digits in grayscale images of 28x28 pixels.
 ### Structure
 ```
 assets   ==>   MNIST dataset folder
@@ -21,7 +22,12 @@ docs     ==>   Project Paper/PPT/LaTex code
 models   ==>   Trained CNN models
 src      ==>   Source code folder
 ```
-### Research Points
+### Results
+* Testing set prediction
+![](./docs/slide/img/result.png)
+* Accuracy
+accuracy = `98.67%`
+
 
 ## Run & Deploy
 ```bash
@@ -29,4 +35,3 @@ git clone https://github.com/openhe-hub/math214-project.git
 cd math214-project
 pip install -r requirements.txt
 ```
-## Others
