@@ -23,7 +23,7 @@ models   ==>   Trained CNN models
 src      ==>   Source code folder
 ```
 ### Results
-* Testing set prediction
+* Testing set prediction  
 ![](./docs/slide/img/result.png)
 * Accuracy
 accuracy = `98.67%`
