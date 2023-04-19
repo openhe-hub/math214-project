@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{First section}{2}{0}{1}
+\beamer@sectionintoc {2}{Application of Gradient Descent: MNIST}{3}{0}{2}
+\beamer@sectionintoc {3}{Third section}{9}{0}{3}
+\beamer@sectionintoc {4}{Fourth section}{10}{0}{4}
