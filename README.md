@@ -25,8 +25,8 @@ src      ==>   Source code folder
 ### Results
 * Testing set prediction  
 ![](./docs/slide/img/result.png)
-* Accuracy
-accuracy = `98.67%`
+* Accuracy  
+accuracy = `99.15%`
 
 
 ## Run & Deploy
